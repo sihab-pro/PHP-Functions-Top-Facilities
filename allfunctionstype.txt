@@ -1,0 +1,6 @@
+strlen
+strtoupper
+strtolower
+strpos
+substr
+trim
